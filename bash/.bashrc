@@ -108,4 +108,4 @@ fi
 
 
 # GIT Editor
-GIT_EDITOR=/usr/bin/vim
+export GIT_EDITOR=/usr/bin/vim
